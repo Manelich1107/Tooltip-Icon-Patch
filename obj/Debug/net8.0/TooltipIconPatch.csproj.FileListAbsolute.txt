@@ -1,0 +1,12 @@
+C:\Users\z\Documents\My Games\Terraria\tModLoader\ModSources\TooltipIconPatch\bin\Debug\net8.0\TooltipIconPatch.deps.json
+C:\Users\z\Documents\My Games\Terraria\tModLoader\ModSources\TooltipIconPatch\bin\Debug\net8.0\TooltipIconPatch.dll
+C:\Users\z\Documents\My Games\Terraria\tModLoader\ModSources\TooltipIconPatch\bin\Debug\net8.0\TooltipIconPatch.pdb
+C:\Users\z\Documents\My Games\Terraria\tModLoader\ModSources\TooltipIconPatch\obj\Debug\net8.0\TooltipIconPatch.csproj.AssemblyReference.cache
+C:\Users\z\Documents\My Games\Terraria\tModLoader\ModSources\TooltipIconPatch\obj\Debug\net8.0\TooltipIconPatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\z\Documents\My Games\Terraria\tModLoader\ModSources\TooltipIconPatch\obj\Debug\net8.0\TooltipIconPatch.AssemblyInfoInputs.cache
+C:\Users\z\Documents\My Games\Terraria\tModLoader\ModSources\TooltipIconPatch\obj\Debug\net8.0\TooltipIconPatch.AssemblyInfo.cs
+C:\Users\z\Documents\My Games\Terraria\tModLoader\ModSources\TooltipIconPatch\obj\Debug\net8.0\TooltipIconPatch.csproj.CoreCompileInputs.cache
+C:\Users\z\Documents\My Games\Terraria\tModLoader\ModSources\TooltipIconPatch\obj\Debug\net8.0\TooltipIconPatch.dll
+C:\Users\z\Documents\My Games\Terraria\tModLoader\ModSources\TooltipIconPatch\obj\Debug\net8.0\refint\TooltipIconPatch.dll
+C:\Users\z\Documents\My Games\Terraria\tModLoader\ModSources\TooltipIconPatch\obj\Debug\net8.0\TooltipIconPatch.pdb
+C:\Users\z\Documents\My Games\Terraria\tModLoader\ModSources\TooltipIconPatch\obj\Debug\net8.0\ref\TooltipIconPatch.dll

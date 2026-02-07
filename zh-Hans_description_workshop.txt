@@ -1,0 +1,31 @@
+[h1] Tooltip Icon Patch [/h1]
+一个[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3582340033]Tooltip Icon[/url]模组的附加包
+
+[b]Tooltip Icon[/b]在物品的描述字段前插入了一个可爱的小图标，但它只支持了原版的四种伤害类型，并不支持模组添加的自定义职业伤害。本附加包旨在为其他模组的职业伤害提供图标支持
+
+[h3]目前本附加包包含：[/h3]
+[list]
+[*] [img]https://imgur.com/QgNv4SB.png[/img] [b]盗贼伤害[/b]，来自[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2824688072]灾厄[/url]
+[*] [img]https://imgur.com/o0Ud9n7.png[/img] [b]投掷伤害[/b]，来自[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2909886416]瑟银[/url]
+[*] [img]https://imgur.com/BFgaVts.png[/img] [b]音波伤害[/b]，来自[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2909886416]瑟银[/url]
+[*] [img]https://imgur.com/bSwjuR2.png[/img] [b]光辉伤害[/b]，来自[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2909886416]瑟银[/url]
+[*] [img]https://imgur.com/X4Yaln8.png[/img] [b]无职业伤害[/b]，包括来自[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2909886416]瑟银[/url]的[b]真实伤害[/b]和来自[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2824688072]灾厄[/url]的[b]无职业伤害[/b]
+[*] [img]https://imgur.com/kFdj3RJ.png[/img] [b]点击伤害[/b]，来自[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2563277843]点击者职业[/url]
+[*] [img]https://imgur.com/oWEnJQB.png[/img] [b]虚空伤害[/b]，来自[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2843112914]暗影奥秘[/url]
+[*] [img]https://imgur.com/Sc0Wfhw.png[/img] [b]虚空+魔法伤害[/b]，来自[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2843112914]暗影奥秘[/url]
+[*] [img]https://imgur.com/Wws73fw.png[/img] [b]虚空+近战伤害[/b]，来自[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2843112914]暗影奥秘[/url]
+[*] [img]https://imgur.com/r7DJqFb.png[/img] [b]虚空+远程伤害[/b]，来自[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2843112914]暗影奥秘[/url]
+[*] [img]https://imgur.com/HLiqgcD.png[/img] [b]虚空+召唤伤害[/b]，来自[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2843112914]暗影奥秘[/url]
+[*] [img]https://imgur.com/0qKn8jO.png[/img] [b]虚空+投掷伤害[/b]，来自[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3404410551]非官方暗影奥秘吟游诗人、投手&牧师武器[/url]
+[*] [img]https://imgur.com/akqBKzJ.png[/img] [b]虚空+音波伤害[/b]，来自[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3404410551]非官方暗影奥秘吟游诗人、投手&牧师武器[/url]
+[*] [img]https://imgur.com/gpjnUtr.png[/img] [b]虚空+光辉伤害[/b]，来自[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3404410551]非官方暗影奥秘吟游诗人、投手&牧师武器[/url]
+[*] [img]https://imgur.com/iuvK69j.png[/img] [b]（融合）盗贼伤害[/b]，来自[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3535746309]跨模组投手融合[/url]或[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3114886209]诸神的黄昏[/url]
+[*] [img]https://imgur.com/14ejRQV.png[/img] [b]传说近战伤害[/b]，来自[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3456517686]诸神黄昏：炼狱蚀光[/url]
+[*] [img]https://imgur.com/qSVScMb.png[/img] [b]传说远程伤害[/b]，来自[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3456517686]诸神黄昏：炼狱蚀光[/url]
+[*] [img]https://imgur.com/ylXxu5G.png[/img] [b]传说魔法伤害[/b]，来自[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3456517686]诸神黄昏：炼狱蚀光[/url]
+[*] [img]https://imgur.com/HuCeHTk.png[/img] [b]传说召唤伤害[/b]，来自[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3456517686]诸神黄昏：炼狱蚀光[/url]
+[/list]
+
+未来也许会支持更多模组，请在评论区进行反馈建议
+感谢[url=https://steamcommunity.com/id/nil256]Nil256[/url]的[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3582340033]Tooltip Icon[/url]模组！
+[quote=Tooltip Icon Patch]Pudd1ng & __De1tA__[/quote]

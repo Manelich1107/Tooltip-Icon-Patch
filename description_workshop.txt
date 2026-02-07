@@ -1,0 +1,31 @@
+[h1] Tooltip Icon Patch [/h1]
+An Addon to [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3582340033]Tooltip Icon[/url]
+
+[b]Tooltip Icon[/b] is a great mod, but it only supports vanilla damage types. All other modded damage types use the default melee class icon. To make it better fit in with other mods, we create this patch to add compatibility with some other mods.
+
+[h3]Right now the patch contains:[/h3]
+[list]
+[*] [img]https://imgur.com/QgNv4SB.png[/img] [b]rogue damage[/b], from [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2824688072]Calamity Mod[/url]
+[*] [img]https://imgur.com/o0Ud9n7.png[/img] [b]thrower damage[/b], from [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2909886416]Thorium Mod[/url]
+[*] [img]https://imgur.com/BFgaVts.png[/img] [b]symphonic damage[/b], from [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2909886416]Thorium Mod[/url]
+[*] [img]https://imgur.com/bSwjuR2.png[/img] [b]radiant damage[/b], from [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2909886416]Thorium Mod[/url]
+[*] [img]https://imgur.com/X4Yaln8.png[/img] [b]classless damage[/b], which contains [b]true damage[/b] from [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2909886416]Thorium Mod[/url] and [b]average damage[/b] from [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2824688072]Calamity Mod[/url]
+[*] [img]https://imgur.com/kFdj3RJ.png[/img] [b]clicker damage[/b], from [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2563277843]The Clicker Class[/url]
+[*] [img]https://imgur.com/oWEnJQB.png[/img] [b]void damage[/b], from [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2843112914]Secrets Of The Shadows[/url]
+[*] [img]https://imgur.com/Sc0Wfhw.png[/img] [b]void + magic damage[/b], from [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2843112914]Secrets Of The Shadows[/url]
+[*] [img]https://imgur.com/Wws73fw.png[/img] [b]void + melee damage[/b], from [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2843112914]Secrets Of The Shadows[/url]
+[*] [img]https://imgur.com/r7DJqFb.png[/img] [b]void + ranged damage[/b], from [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2843112914]Secrets Of The Shadows[/url]
+[*] [img]https://imgur.com/HLiqgcD.png[/img] [b]void + summon damage[/b], from [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2843112914]Secrets Of The Shadows[/url]
+[*] [img]https://imgur.com/0qKn8jO.png[/img] [b]void + thrower damage[/b], from [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3404410551]Unofficial SOTS Bard, Thrower and Healer[/url]
+[*] [img]https://imgur.com/akqBKzJ.png[/img] [b]void + symphonic damage[/b], from [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3404410551]Unofficial SOTS Bard, Thrower and Healer[/url]
+[*] [img]https://imgur.com/gpjnUtr.png[/img] [b]void + radiant damage[/b], from [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3404410551]Unofficial SOTS Bard, Thrower and Healer[/url]
+[*] [img]https://imgur.com/iuvK69j.png[/img] [b]united rogue damage[/b], from [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3535746309]Thrower Unification[/url] or [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3114886209]Ragnarok[/url]
+[*] [img]https://imgur.com/14ejRQV.png[/img] [b]legendary melee damage[/b], from [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3456517686]Infernal Eclipse of Ragnarok[/url]
+[*] [img]https://imgur.com/qSVScMb.png[/img] [b]legendary ranged damage[/b], from [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3456517686]Infernal Eclipse of Ragnarok[/url]
+[*] [img]https://imgur.com/ylXxu5G.png[/img] [b]legendary magic damage[/b], from [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3456517686]Infernal Eclipse of Ragnarok[/url]
+[*] [img]https://imgur.com/HuCeHTk.png[/img] [b]legendary summon damage[/b], from [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3456517686]Infernal Eclipse of Ragnarok[/url]
+[/list]
+
+More supporting mods are planned (maybe), feel free to provide any feedbacks!
+Special thanks to [url=https://steamcommunity.com/id/nil256]Nil256[/url] for his great [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3582340033]Tooltip Icon[/url] mod!
+[quote=Tooltip Icon Patch]Developed By Pudd1ng, Sprited by __De1tA__[/quote]

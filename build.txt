@@ -1,0 +1,7 @@
+displayName = Tooltip Icon Patch
+author = Pudd1ng & 三杯伍迪
+version = 0.3
+side = Client
+modReferences = TooltipIcon
+weakReferences = CalamityMod, ThoriumMod, SOTS, InfernalEclipseAPI, SOTSBardHealer, ThrowerUnification, RagnarokMod, ClickerClass, CaptureDiscClass, DBZMODPORT, DemolisherClass, OrchidMod, Redemption
+sortAfter = TooltipIcon, CalamityMod, ThoriumMod, SOTS, InfernalEclipseAPI, SOTSBardHealer, ThrowerUnification, RagnarokMod, ClickerClass, CaptureDiscClass, DBZMODPORT, DemolisherClass, OrchidMod, Redemption

@@ -1,0 +1,2 @@
+Tooltip Icon Patch is an add-on to Tooltip Icon. The patch adds various damage class icons for different mods
+此模组为Tooltip Icon添加了更多支持的职业伤害类型
