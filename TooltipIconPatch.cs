@@ -59,7 +59,10 @@ namespace TooltipIconPatch
 			}
 
 			if (ModLoader.TryGetMod(SOTSBardHealerModName, out Mod SOTSBardHealer))
+			{
 				RegisterSOTSBardHealerVoidDamageIcons(TooltipIcon, SOTSBardHealer);
+				RegisterSOTSBardHealerVoidCostIcon(TooltipIcon);
+			}
 
 			if (useMergedThrowingIcon)
 			{
@@ -265,6 +268,14 @@ namespace TooltipIconPatch
 			TryAddDamageClassIcon(TooltipIcon, SOTSBardHealer, "VoidRadiant", "TooltipIconPatch/Assets/TooltipIcons/SOTSBardHealerVoidRadiant");
 			TryAddDamageClassIcon(TooltipIcon, SOTSBardHealer, "VoidSymphonic", "TooltipIconPatch/Assets/TooltipIcons/SOTSBardHealerVoidSymphonic");
 			TryAddDamageClassIcon(TooltipIcon, SOTSBardHealer, "VoidThrowing", "TooltipIconPatch/Assets/TooltipIcons/SOTSBardHealerVoidThrowing");
+		}
+
+		private static void RegisterSOTSBardHealerVoidCostIcon(Mod TooltipIcon)
+		{
+			Asset<Texture2D> texture = ModContent.Request<Texture2D>(
+				"TooltipIconPatch/Assets/TooltipIcons/SOTSVoidCost",
+				AssetRequestMode.ImmediateLoad);
+			TooltipIcon.Call("AddNormalIcon", SOTSBardHealerModName, "VoidCost", texture);
 		}
 
 		private static void RegisterCalamityRogueDamageIcons(Mod TooltipIcon, Mod CalamityMod)
